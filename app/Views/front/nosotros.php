@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
- <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="public/assets/css/style.css">
+
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,7 +17,7 @@
     <div class="titulo">
             <p>  Cars Store </p>
     <div class="logo1">
-<img src="img/logo.png" alt="">
+<img src="public/assets/img/logo.png" alt="">
         </div>
     </div>
     
@@ -44,7 +45,7 @@
 <div class="row row-cols-1 row-cols-md-3 g-4" style="margin-left: 20px; margin-right: 20px">
   <div class="col">
     <div class="card h-100">
-      <img src="img/persona3.png" class="card-img-top" alt="...">
+      <img src="public/assets/img/persona3.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Matias Aguilar</h5>
         <p class="card-text" style="color: black; text-align: justify;">En el corazón de una empresa de ventas de autos de alta gama, donde la información precisa y el detalle técnico son tan cruciales como el diseño del vehículo, se encuentra Matías Aguilar. Su rol no es el de un simple vendedor, sino el de un especialista en producto, un verdadero arquitecto del conocimiento automotriz, cuya pasión es desglosar cada especificación y tecnología para el cliente más exigente.</p>
@@ -56,7 +57,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="img/persona1.png" class="card-img-top" alt="...">
+      <img src="public/assets/img/persona1.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Lucas Gabriel</h5>
         <p class="card-text" style="color: black; text-align: justify;">Lucas Gabriel no solo vende autos de alta gama; vende sueños, estatus y, sobre todo, una experiencia inolvidable. Es un empresario moderno, cuyo éxito radica en la combinación perfecta de profesionalismo, empatía y una visión clara del mercado del lujo..</p>
@@ -68,7 +69,7 @@
   </div>
   <div class="col">
     <div class="card h-100">
-      <img src="img/persona2.png" class="card-img-top" alt="...">
+      <img src="public/assets/img/persona2.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Lucila Mendez</h5>
         <p class="card-text" style="color: black; text-align: justify;">TLucila Méndez no solo cumple con las funciones de una secretaria; ella eleva el rol a un arte, siendo la pieza fundamental que permite que la empresa de autos de alta gama opere con la fluidez y el prestigio que la caracterizan. Su dedicación silenciosa y su eficiencia inquebrantable son un pilar esencial en el éxito de la compañía..</p>
